@@ -1,6 +1,14 @@
+#navbarNav{
+justify-content: right;
+}
+
+.navbar-nav{
+    align-items: center;
+}
 #g-nav-1{
     background-color: rgb(71, 71, 71);
 }
+
 .navbar-brand{
     color:whitesmoke;
     font-family: 'Poiret One', sans-serif;
