@@ -1,7 +1,7 @@
 # Desafio de Projeto sobre Git/Github
 👩‍💻Repositório criado para o Desafio de Projeto Git e Github.
 
-[Ver projeto](https://instagram.com/ingridcoelhoab.s?utm_source=qr&igshid=ZDExYjZkNGI0OA==)
+[Ver projeto](https://euingridsouza.github.io/desafio-github/#)
 
 
 ## 🎯Objetivo
