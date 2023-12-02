@@ -7,7 +7,7 @@
 }
 
 #g-nav-1 {
-    background-color: rgba(41, 41, 41, 0.938);;
+    background-color: rgb(41, 41, 41);
 }
 
 .navbar-brand {
@@ -44,10 +44,12 @@ li{
 }
 
 footer {
+    display:flex;
     width: 100%;
     position: relative;
+    justify-content: center;
+    align-items: center;
     bottom: 0;
-    text-align: center;
     font-size: 12px;
     padding: 10px;
     background-color: rgb(41, 41, 41);
@@ -56,4 +58,7 @@ footer {
 footer a{
     text-decoration: none;
     color:whitesmoke
+}
+.g-footer-logo{
+    height: 90%;
 }
