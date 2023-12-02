@@ -1,4 +1,8 @@
 # Desafio de Projeto sobre Git/Github
+
+## 🚧 Projeto em desenvolvimento
+
+
 👩‍💻Repositório criado para o Desafio de Projeto Git e Github.
 
 [Ver projeto](https://euingridsouza.github.io/desafio-github/#)
@@ -9,12 +13,11 @@ Este projeto tem como objetivo desenvolver o conteúdo de Git/Github adquirido d
 
 Para colocar em prática os comandos optei por desenvolver uma página web falando sobre a diferença entre Git e Github.
 
+
 Link do projeto: 
 https://euingridsouza.github.io/desafio-github/#
 
-
-
-## 🚧 Projeto em desenvolvimento 
+ 
 
 
 ## 🔗 Links
