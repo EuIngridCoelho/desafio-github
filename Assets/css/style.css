@@ -1,32 +1,53 @@
-#navbarNav{
-justify-content: right;
+#navbarNav {
+    justify-content: right;
 }
 
-.navbar-nav{
+.navbar-nav {
     align-items: center;
 }
-#g-nav-1{
-    background-color: rgb(71, 71, 71);
+
+#g-nav-1 {
+    background-color: rgba(41, 41, 41, 0.938);;
 }
 
-.navbar-brand{
-    color:whitesmoke;
-    font-family: 'Poiret One', sans-serif;
+.navbar-brand {
+    color: whitesmoke;
     font-size: 30px
 }
-.nav-link{
-    color:whitesmoke;
+
+.nav-link {
+    color: whitesmoke;
     font-size: 20px;
 }
-h1{
+
+h1 {
     font-size: 60px;
 }
-.g-titles{
+
+.g-titles {
     font-family: 'Poiret One', sans-serif;
 }
-#g-heading-1{
+
+#g-heading-1 {
     margin: 20px;
 }
-#g-git, #g-github{
+
+#g-git,
+#g-github {
     margin: 20px;
+}
+
+footer {
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    text-align: center;
+    font-size: 12px;
+    padding: 10px;
+    background-color: rgb(41, 41, 41);
+    color: white;
+}
+footer a{
+    text-decoration: none;
+    color:whitesmoke
 }
