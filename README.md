@@ -1,7 +1,5 @@
 # Desafio de Projeto sobre Git/Github
 
-## 🚧 Projeto em desenvolvimento
-
 
 👩‍💻Repositório criado para o Desafio de Projeto Git e Github.
 
@@ -11,7 +9,7 @@
 ## 🎯Objetivo
 Este projeto tem como objetivo desenvolver o conteúdo de Git/Github adquirido durante o Bootcamp Potência Tech iFood - Desenvolvimento de Jogos.
 
-Para colocar em prática os comandos optei por desenvolver uma página web falando sobre a diferença entre Git e Github.
+Para colocar em prática os comandos optei por desenvolver uma página web falando sobre principais conceitos e funcionalidades do Git e do Github.
 
 
 Link do projeto: 
