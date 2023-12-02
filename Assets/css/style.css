@@ -46,19 +46,29 @@ li{
 footer {
     display:flex;
     width: 100%;
-    position: relative;
+    height: 200px;
     justify-content: center;
     align-items: center;
-    bottom: 0;
+    margin-bottom: 0;
+    bottom: 0px;
     font-size: 12px;
     padding: 10px;
     background-color: rgb(41, 41, 41);
     color: white;
 }
-footer a{
+a{
     text-decoration: none;
     color:whitesmoke
 }
 .g-footer-logo{
-    height: 90%;
+    display: flex;
+    justify-content: end;
+    width: 40%;
+    height: 100%;
+    padding-right: 10px;
+}
+.g-footer-info{
+    display: flexbox;
+    margin-bottom: 1%;
+    width: 45%;
 }
